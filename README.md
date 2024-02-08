@@ -4,13 +4,13 @@ GitHub Finder is a web application built using React.js that allows users to sea
 
 
 ### 1. Starting of the App
-![Starting of the App](https://drive.google.com/file/d/1i5cSmGNz5Lq_zYDg0CTTxCSMli-GX4KM)
+![Starting of the App](images/image1.png)
 
 ### 2. Input and Displayed Output
-![Input and Displayed Output](https://drive.google.com/file/d/1geYiekvxg06V3vNWRAbns8CXNwcrYbFF)
+![Input and Displayed Output](images/image2.png)
 
 ### 3. No Search Found
-![No Search Found](https://drive.google.com/file/d/1sVnlVnfD2qJQ4oH3RStuEWd7zjsFJ8FK)
+![No Search Found](images/image3.png)
 
 
 ## Features
