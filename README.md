@@ -1,7 +1,7 @@
 # GitHub Finder
 
 GitHub Finder is a web application built using React.js that allows users to search for GitHub accounts by username and view details of those accounts.
-
+Check out on live : <a href='https://www.githubfinderbysurya.netlify.com' target="_blank">githubfinder.com</a>
 
 ### 1. Starting of the App
 ![Starting of the App](images/image1.png)
